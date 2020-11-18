@@ -1,10 +1,11 @@
 ## 前言
 夹娃娃营销活动大家应该都不陌生那如何用小程序实现呢？
+
 今天就带大家用canvas撸了一个全手工绘制的夹娃娃分享给大家。此处应有掌声 : )
 
 ### 一、效果图
 
-![](https://blog.100boot.cn/storage/thumbnails/_signature/2MN5CRHT0NNDA9QRAFIBS6G7HS.gif)
+![](https://blog.100boot.cn/storage/thumbnails/_signature/2MN5CRHT0NNDA9QRAFIBS6G7HS.jpg)
 
 ### 二、项目结构
 ![](https://blog.100boot.cn/storage/thumbnails/_signature/H0CDF7BJVBPIJH7GUJDC34EQF.jpg)
